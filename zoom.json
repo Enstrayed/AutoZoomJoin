@@ -1,0 +1,34 @@
+{
+    "classes": {
+        "period1": {
+            "class": "Math",
+            "timeHour": 9,
+            "timeMin": 30,
+            "zoomUrl": "https://example.com"
+        },
+        "period2": {
+            "class": "Science",
+            "timeHour": 10,
+            "timeMin": 30,
+            "zoomUrl": "https://example.com"
+        },
+        "period3": {
+            "class": "History",
+            "timeHour": 11,
+            "timeMin": 30,
+            "zoomUrl": "https://example.com"
+        },
+        "period4": {
+            "class": "Study Hall",
+            "timeHour": 12,
+            "timeMin": 30,
+            "zoomUrl": "https://example.com"
+        }
+    },
+    
+    "resources": {
+        "domain1": "https://ctaetcsh.xyz",
+        "domain2": "https://ctaetcsh.com",
+        "domain3": "https://ctaetcsh.gay"
+    }
+}
